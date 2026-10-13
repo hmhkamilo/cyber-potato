@@ -1,0 +1,13 @@
+{
+  "what": "CYBER.EXE: 9x9 ball sprite -> potato (81 bytes, no palette change)",
+  "orig_sha256": "337b683b503b6d58bb9167a135385aa1e28508db5a67a389c0758bb607f70384",
+  "patched_sha256": "eb62545d71e854f43a0a61491369aed2e4b5e76e43d2b55dcd83f3429d117b38",
+  "bytes_changed": 69,
+  "regions": [
+    {
+      "file_offset": 62800,
+      "new_hex": "0000000000fefefe00000000fefefffffefd0000fefffffffefefd00fefffffffdfffefdfefffffffefefefefdfefffffdfefefefdfdfdfefefefefefdfd00fdfdfefefefdfd000000fdfdfdfdfd000000"
+    }
+  ],
+  "note": "Original bytes intentionally omitted. Apply to your own CYBER.EXE (sha256 in orig_sha256)."
+}

@@ -1,0 +1,20 @@
+[package]
+name = "cyber-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Native real-mode x86 CPU interpreter and runtime for Cybersphere"
+
+[lib]
+name = "cyber_rs"
+path = "src/lib.rs"
+
+[[bin]]
+name = "vector_runner"
+path = "src/main.rs"
+
+[[bin]]
+name = "cyber"
+path = "src/cyber.rs"
+
+[dependencies]
+minifb = "0.29.0"

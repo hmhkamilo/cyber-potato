@@ -1,0 +1,8 @@
+target/
+vectors/
+run_target/
+*.exe
+*.EXE
+*.mp4
+*.png
+*.hashes
