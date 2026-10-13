@@ -2,7 +2,7 @@
 
 A native 16-bit real-mode x86 CPU interpreter in Rust that runs the 1996 DOS game **Cybersphere** (a breakout game) from your own copy of `CYBER.EXE`, plus a patch that turns the ball into a potato.
 
-Built for the video **CYBER POTATO**: three AI agents in [HarnessTron](https://github.com/hmhkamilo/harnesstron) rebuilt the game's file byte for byte, and then we proved we understood it by changing 81 bytes of the ball sprite.
+Built for the video **CYBER POTATO**: three AI agents in HarnessTron rebuilt the game's file byte for byte, and then we proved we understood it by changing 81 bytes of the ball sprite.
 
 ## What is NOT in this repository
 
